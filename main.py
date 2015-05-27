@@ -1,7 +1,7 @@
 import os
 import json
 import requests
-from flask import Flask, make_response, render_template, redirect, abort, request, jsonify
+from flask import Flask, request
 
 app = Flask(__name__)
 app.config['DEBUG'] = True
