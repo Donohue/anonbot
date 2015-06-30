@@ -1,5 +1,7 @@
 # anonbot
 
+![anonbot screenshot](/anonbot.png "anonbot in action")
+
 anonbot is a Slack [slash command](https://api.slack.com/slash-commands) and [incoming webhook](https://api.slack.com/incoming-webhooks) for letting your team post anonymous messages.
 
 ## Setup
